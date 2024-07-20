@@ -1,2 +1,4 @@
-# kindergarten
-Let's practice!
+---
+- 이름: 000
+- GitHub ID: 000
+- 자기소개: 000

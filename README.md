@@ -14,6 +14,10 @@
 - 이름: 박소연
 - Github ID: sypark9646
 - 자기소개: 안녕하세용
+--- 
+- 이름: 박재연
+- GitHub ID: moggaa
+- 자기소개: 안녕하세요!!! 날씨가 많이 덥네요~~ 화이팅입니다
 ---
 - 이름: 정수연
 - GitHub ID: suyeon-jung-dev

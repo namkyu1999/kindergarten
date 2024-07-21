@@ -19,6 +19,10 @@
 - GitHub ID: moggaa
 - 자기소개: 안녕하세요!!! 날씨가 많이 덥네요~~ 화이팅입니다
 ---
+- 이름: 정다연
+- GitHub ID: inpyu
+- 자기소개: 안녕하세요, 열심히 배우겠습니다~!
+---
 - 이름: 정수연
 - GitHub ID: suyeon-jung-dev
 - 자기소개: 안녕하세요! litmus maintainer 를 목표로 하는 정수연 입니다! :) 
